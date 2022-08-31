@@ -1,3 +1,3 @@
-# merge-conflict
+# merge-conflict-lesson
 
-#I am doing a bad thing.
+## testing merge conflicts in github
