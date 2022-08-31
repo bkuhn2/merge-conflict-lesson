@@ -1,3 +1,3 @@
-# merge-conflict-lesson
+# completely different wording
 
-## testing merge conflicts in github
+boilerplate txt
