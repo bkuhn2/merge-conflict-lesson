@@ -1,1 +1,3 @@
-# merge-conflict-lesson
+# merge-conflict
+
+#I am doing a bad thing.
